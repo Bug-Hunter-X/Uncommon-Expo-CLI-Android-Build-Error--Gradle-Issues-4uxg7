@@ -1,0 +1,1 @@
+This error occurs when using Expo CLI to build an Android app and involves issues with the Android build process itself.  The specific error message can vary but often indicates problems with Gradle, the build system for Android projects. The error may be related to missing dependencies, incorrect configurations, or problems with the Android SDK or NDK.
